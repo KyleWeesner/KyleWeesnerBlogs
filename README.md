@@ -1,1 +1,26 @@
-#KyleWeesnerBlogs
+# My Journey Into Data Science
+
+## Why I Was Looking for a New Program
+I hated my job.  I liked the people.  I was impressed with the things being done there.  But the job was designed for people working towards a PhD program and I wasn't planning to do that much schooling so I knew it wasn't leading anywhere.  I knew I wanted to do something different but didn't know what it was.  I am pursuing data science as part of my transition from a pure life science career back to a math oriented science career.  There are many aspects that attracted me to this field but mainly I see new tools being applied to an established fundamental so it is a growing field with more potential to be impactful.  It also doesn't hurt that from what I have seen it should pay better than what I was doing.  As someone who loved math growing up, I am excited that I will be hopefully doing a job that allows me to work with math daily.
+
+## Path To Learning About Data Science
+
+### Change is Scary
+
+I have always been a science and math person. Throughout high school and most of college I aspired to be a veterinarian.  But after working in a clinic for multiple summers, I realized that this was not my passion.  I always found animals to be interesting and cool, but I did not see this being my future. I realized this my senior year of college and at that moment it was scary to suddenly not know what I wanted anymore.  I know this may sound cliche, but to me always having a direction in life felt reassuring and then it was gone. 
+
+### My Vision Gets Some Direction
+
+After talking with friends, teachers, advisors, and family, I decided to finish my senior year and receive a Bachelor of Science in the program I was already in and not change majors.  During my remaining time at school when I was not in classes, studying, or practicing/competing for my sports team I spent my time researching possible routes to go with my degree in Biology.  The two routes that I explored the most were biotechnology and biostatistics/bioinformatics.  After further research, I learned that biostatistics and bioinformatics graduate programs required many coding classes as prerequisites that I was not able to take or explore before graduating.  So, this idea was put to the side.  I looked into biotech and realized that my university offered a biotechnology class my last semester and I took it to gain a better understanding of the field and my alternatives.
+
+### Pandemic And Post Graduation
+
+In the middle of my last semester of college the SARS-CoV-2 pandemic stated.  My university went to online and I finished my classes at home back in Texas.  I started applying to jobs before graduating and did not have much luck initially. After three months of job searching and one month after my graduation, I landed a job working as a Research Technician at Baylor College of Medicine in the Texas Medical Center.  While there I helped pioneer the wastewater surveillance for two viruses (SARS and HIV), helped Tailor Lab with finding and suiting bacteriophage for treating patients with antimicrobial resistant bacteria, and exploring new projects examining  mechanisms of mutagenesis in bacteria.  My time there was interesting and I learned a lot working with this lab full of amazing people.  But, I never felt or saw myself doing research long term and I really disliked working in a lab, all day, every day and the multiple hours I spent every day commuting certainly made online work appear more attractive. 
+
+### Choosing a School
+
+I had been working as a research technician for almost a year and a half.  The thought of learning to code was stuck in my head since my senior year.  Occasionally, when I had the time, I would find some coding videos on YouTube or read an article about coding.  I realized that learning to code was much more challenging that I had initially thought it would be.  At a dinner with friends and family, I found out that some of their relatives had taken coding bootcamp courses and they recommended them.  I looked into many different schools and was excited about the intense bootcamp method wherein it would not take me multiple years to change my career.  After looking at a variety of bootcamps, I settled on Flatiron because of their location, good reviews, pricing in line with other schools, provided a data science program, and they were considered a top ranking coding bootcamp on many website rankings.  After long consideration, I decided to apply.  After applying, interviewing, completing prework, taking tests, and completing documents, I was finally accepted into the data science program.  I was so excited to begin this new chapter into my life. 
+
+## My Advice From This Process
+
+If I were to go back, there are a few changes I would have done differently such as exploring my curiosity of coding and data science sooner.  The college I went to offered a number of programming courses that I could have taken as electives but instead I took a number of generic courses like history and economics.  But none the less, I am glad to have started my new program and I look forward to these 15 weeks with Flatiron.  One key take away I learned is that if someone ever considers wanting to learn something new they should not waiver or wait.  They should start looking into it and if they have interest and it could lead to a beneficial future then pondering the decision is simply a waste of time and time is precious.
