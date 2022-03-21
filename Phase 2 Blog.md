@@ -24,7 +24,7 @@ Exploring   unknowns can be exciting!  Sometimes!  In everyday life, we unconsci
   
  <img src=https://compote.slate.com/images/4bb1d42b-e0d3-4bfa-9b85-103b63977542.jpg width="200"> Generally, all of these statistical tests measures the varience between groups and returns a p-value.  
 
-    The type of test we choose depends on several factors.  The normality of the data we have, the quantity of data we have, and the number of things we are comparing determines what is the appropriate hypothesis test to use.
+The type of test we choose depends on several factors.  The normality of the data we have, the quantity of data we have, and the number of things we are comparing determines what is the appropriate hypothesis test to use.
 - Testing difference in variation:  Levene's Test (non-normal data), F-Test (normal data, 2 data sets), Bartlett's Test (normal data, more than 2 data sets)
 - Testing difference in Averages of normally distributed data: for normally distributed data, the average value used is the Mean
   - Z Test, used when comparing a sample mean to a population mean when n>50 
