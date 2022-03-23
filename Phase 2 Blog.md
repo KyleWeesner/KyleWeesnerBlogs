@@ -39,8 +39,9 @@ The type of test we choose depends on several factors.  The normality of the dat
 
 ## 4. Reject or Failed to Reject Null Hypothesis
 <img src="https://user-images.githubusercontent.com/100227270/159238521-26e0bf91-a6b1-4ffa-9561-477164162b23.png" width="500" height="300" />
+Restating the above, a 'p' value is the calculated probability (in decimal form) of being wrong if it is said there is a difference.  The alpha value is the defined acceptable 'p' value.  The Null hypothesis is that there is no difference and the Alternative hypothesis is that there is a difference.  So if p < alpha, then we reject the Null hypothesis and accept the Alternative hypothese (i.e., this data is guilty of being different). 
+  
   
 ## 5. Discuss Results
 Presenting a summary of your data and the p-value.  Go back to the initial question and state the findings either failing to reject the null or rejecting the null.  By rejecting the null it is equavalent to accepting the alternative hypothesis.
-  
-  Restating the above, a 'p' value is the calculated probability (in decimal form) of being wrong if it is said there is a difference.  The alpha value is the defined acceptable 'p' value.  The Null hypothesis is that there is no difference and the Alternative hypothesis is that there is a difference.  So if p < alpha, then we reject the Null hypothesis and accept the Alternative hypothese (i.e., this data is guilty of being different).
+
