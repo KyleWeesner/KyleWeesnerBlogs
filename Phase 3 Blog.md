@@ -59,10 +59,4 @@ The test returns 4 values in order stat, p, m, table.  Refer to scipy documentat
 
 ### Reject or Fail to reject Null Hypothesis
 
-We will compare our originally stated alpha value against our p-value.  Let assume our alpha is 0.05.  Because our p-value > alpha we would fail to reject the Null Hypothesis which some may call accpeting the null that there is no significant difference between the annual income between the north and south of TownA.  Note: this test can compare two or more sample as a whole,  but does not specify between which groups.  
-
-### Outcomes with Different Parameters
-
-scipy.stats.median_test(*args, ties='below', correction=True, lambda_=1, nan_policy='propagate')
-
-self.note do not know if i want to talk about the parameters???/
+We will compare our originally stated alpha value against our p-value.  Let assume our alpha is 0.05.  Because our p-value > alpha we would accept the Null Hypothesis and reject the Alternate Hypothesis (aka, there is no statistical difference between the annual income between the north and south of TownA).  Note: this test can compare two or more data sets.  When comparing more than two data sets, if p is less than alpha, this is telling you that at least one set is statistically different but does not identify which one.  
