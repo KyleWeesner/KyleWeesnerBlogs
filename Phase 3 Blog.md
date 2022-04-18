@@ -1,6 +1,6 @@
 # Mood's Median Test
 
-One way to test non-normally distributed data is by using the Mood's Median Test.  This non-parametric test that compares the medians of two or more samples to determine if there is significant difference in the samples.  This test is generally not used for larger sample sizes.  Mood's Median Test is used when the data includes outliers (e.g., for salary information, most people earn between $20k and $130k but the data includes one or two that earn multi-millions per year causing a Mean value to be greatly affected by one or just a few data points).  This can be done by hand but is usually done by some type of statistical software.  
+One way to test non-normally distributed data is by using the Mood's Median Test.  This non-parametric test that compares the medians of two or more samples to determine if there is significant difference in the samples.  This test is generally not used for larger sample sizes.  Mood's Median Test is used when the data includes outliers (e.g., for salary information, most people earn between $25k and $90k but the data includes one or two that earn multi-millions per year causing a Mean value to be greatly affected by one or just a few data points).  This can be done by hand but is usually done by some type of statistical software.  
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/100227270/163767211-95066347-fb4f-44d2-9d2f-63b76afa6a43.png"/> 
