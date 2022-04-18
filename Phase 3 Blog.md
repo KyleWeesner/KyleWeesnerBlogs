@@ -2,18 +2,24 @@
 
 One way to test non-normally distributed data is by using the Mood's Median Test.  This non-parametric test that compares the medians of two or more samples to determine if there is significant difference in the samples.  This test is generally not used for larger sample sizes.  Mood's Median Test is used when the data includes outliers (e.g., for salary information, most people earn between $20k and $130k but the data includes one or two that earn multi-millions per year causing a Mean value to be greatly affected by one or just a few data points).  This can be done by hand but is usually done by some type of statistical software.  
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/100227270/163767211-95066347-fb4f-44d2-9d2f-63b76afa6a43.png"/> 
+
 
 ## Mood's Median Test Process with scipy
 
 For a better overview of the Statistical Analysis process refer to [Overview of Hypothesis Testing](https://github.com/KyleWeesner/KyleWeesnerBlogs/blob/gh-pages/Phase%202%20Blog.md).
 
-### State your Null and Alternative Hypothesis and confident you want to be in your decision (alpha) 
+### State your Null and Alternative Hypothesis and how confident you want to be in your decision (alpha) 
 - Ho: Null hypothesis no significant difference between variables
 - Ha or H1: Alternative Hypothesis there is a significant difference between variables
 
 ### Data
+  
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/100227270/163767754-b7931178-4fb1-4a82-8d2b-881a07668625.png"/ width=400> 
 
-For explainitory purpose of using and interpreting the median test, I created a list that is non-normally disctributed with outliers.
+In most cases data will be found or provided to you but for the explainitory purpose of using and interpreting the median test, I created a list that is non-normally disctributed with outliers to test if there is a difference between the samples.
 ```
 np.random.seed(1) #creating a seed for np.random
 TownA_no_outlier = np.random.randint(20000, 100000, 95).tolist() #randomly generating a list
@@ -22,7 +28,7 @@ TownA_outlier = np.random.randint(200000, 300000, 5).tolist() #randomly generati
 TownA = TownA_no_outlier + TownA_outlier #combining two lists
 south_city, north_city = train_test_split(TownA, test_size=.5, random_state=42) #created two evenly split samples to comapre 
 ```
-Made up 100 annual salaries for citizens of TownA and created two sample sizes from the grand sample. 
+Made up 100 annual salaries for citizens of TownA and created two sample sizes from the grand sample.   
 
 ```
 fig, ax = plt.subplots(figsize =(10, 5))
