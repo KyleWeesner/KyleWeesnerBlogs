@@ -40,8 +40,21 @@ ax.set_xlabel("Annual Income")
 plt.show()
 ```
 ![Example_Histogram_blog](https://user-images.githubusercontent.com/100227270/163664858-fff7c944-5847-41aa-a26e-2651caa135e7.jpg)
+ 
+Image of the TownA data in a histogram to show the non-normal distribution and outliers. 
+  
+```
+boxs = {'north_city': north_city, 'south_city':south_city}
+fig, ax = plt.subplots()
+ax.boxplot(boxs.values(), vert=False)
+ax.set_yticklabels(boxs.keys())
+ax.set_xlabel('Annual income')
+ax.set_title('North and South TownA');  
+```  
+![Example_Boxplot_blog](https://user-images.githubusercontent.com/100227270/163903144-a73f9117-1019-462a-b918-95a8beef9ded.JPG)
 
-Image of the data in a histogram to show the non-normal distribution and outliers. 
+  
+Image of the south and north region of TownA in a boxplot to compare the two samples. 
 
 ### Perfrom Test 
 #### [scipy.stats.median_test](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.median_test.html) Doctumentation
