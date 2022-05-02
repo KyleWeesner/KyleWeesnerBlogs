@@ -19,3 +19,4 @@ Data scientists explore ways to leverage monetary growth for companies.  There a
 
 
 ## Esports
+Data scientists are able to find different strategies for games to increases chances of victory by using large samples of data.  
