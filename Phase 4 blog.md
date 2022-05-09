@@ -3,8 +3,8 @@
 <p align="center">
   <img src="https://algorit.ma/wp-content/uploads/2020/12/1280x530_Data_science_use_cases_in_gaming_industry-03-min.png"/>
   
-The gaming industry is another option for data scientists to provide their special services.  This blog will address some ways that data scientists are currently being applied in the gaming industry.  This is a growing and dynamic market with many opportunities.  Data scientists help optimize outcomes in areas that may be beneficial to the business, customers, and players.
-
+The gaming industry is another option for data scientists to provide their special services.  This blog will address some ways that data scientists are currently being applied in the gaming industry.  This is a growing and dynamic market with many opportunities.  Data scientists help optimize outcomes in areas that may be beneficial to the business, and players.
+  
 ## Game Development/ Design
   
 <p align="center">
@@ -37,4 +37,4 @@ Protecting customers information from scammers is critical in every industry.  I
 ## E-sports
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/100227270/167275788-f81cee67-cd62-4bdb-8756-ede2e3dbe4b0.gif)
 
-Data scientists may be used in optimizing ways to improve branding.  Depending on the employer this may vary drastically in roles.  Some ways data scientists are used in e-sports can be allocation of resources, improving streams, gambling, and data analytics for teams. Data scientists that work for teams are able to find different strategies for games to increases chances of victory by using large samples of data.  
+Data scientists may be used in optimizing ways to improve branding.  Teams with a larger following generally are better funded.  Some ways data scientists are used in e-sports can be allocation of resources, improving streams, gambling, and game analytics for teams. Data scientists that work for teams are able to find different strategies for games to increases chances of victory.  Team rosters are taken in to account as well to improve success in competitions.  This is important due to the fact that winning teams generally receive more screen time and media coverage.  Sponshorships are a neccessity for teams to make money and most sponsors want their brand to be seen by the public as much as possible.
